@@ -1,0 +1,32 @@
+h1{
+    color:rgb(148, 33, 33)
+}
+/*{
+    border:solid
+}*/y
+a{
+    font-size:40px
+}
+.header{
+    background-color: yellow;
+}
+.menu{
+    
+    background-color: black;
+    font-size: 40px;
+}
+.grid{
+    display:flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    
+}
+.item img{
+    border: 2px solid black;
+    border-radius: 20px;
+    
+}
+body{
+    background-color: #acdebf;
+   margin: 30px;
+}
